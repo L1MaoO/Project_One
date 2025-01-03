@@ -1,0 +1,16 @@
+:root{
+    --very-light-pink:#C7C7C7;
+    --White: #FFFFFF;
+    --Text-input-field:#F7F7F7;
+    --Black:#000000;
+    --Hospital-green:#ACD9B2
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
